@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-formatjs-restrict-characters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Restricts the use of the provided characters everywhere except when those characters are used as a defaultMessage prop of <FormattedMessage/> or as a property in the first argument of the formatMessage function.",
   "main": "index.js",
   "type": "commonjs",
