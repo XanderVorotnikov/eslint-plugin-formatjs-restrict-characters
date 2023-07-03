@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-formatjs-restrict-characters",
+  "version": "0.0.1",
+  "description": "Restricts the use of the provided characters everywhere except when those characters are used as a defaultMessage prop of <FormattedMessage/> or as a property in the first argument of the formatMessage function.",
+  "main": "index.js",
+  "type": "commonjs",
+  "keywords": [
+    "formatjs",
+    "eslint",
+    "eslint-plugin",
+    "eslintplugin",
+    "defaultMessage",
+    "chars",
+    "characters",
+    "restriction"
+  ],
+  "author": "XanderVorotnikov",
+  "license": "ISC",
+  "repository": "https://github.com/XanderVorotnikov/eslint-plugin-formatjs-restrict-characters",
+  "homepage": "https://github.com/XanderVorotnikov/eslint-plugin-formatjs-restrict-characters",
+  "bugs": "https://github.com/XanderVorotnikov/eslint-plugin-formatjs-restrict-characters/issues",
+  "peerDependencies": {
+    "eslint": ">=8.44.0"
+  }
+}
